@@ -1,0 +1,19 @@
+* {
+    background-color: lightblue;
+}
+
+h1 {
+    padding: 20px 20px 20px 20px;
+    background-color: blue;
+    text-align: center;
+}
+
+header ul, footer {
+    text-align: center;
+}
+
+
+
+header li {
+    display: inline-block;
+}
